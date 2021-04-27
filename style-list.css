@@ -1,0 +1,29 @@
+body{
+    font-family: "Noto Sans JP", sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    background-color: #2F3336;
+    border-radius: 15px;
+}
+
+thead > tr{
+    font-weight: bolder;
+}
+
+thead > tr > td{
+    background-color: #1A91DA;
+    padding-left: 15px;
+    border-radius: 15px;
+}
+tbody > tr > td{
+    padding-left: 15px;
+}
+
